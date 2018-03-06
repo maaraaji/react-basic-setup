@@ -1,0 +1,11 @@
+{
+  "name": "react-basic-setup",
+  "version": "1.0.0",
+  "description": "A basic react project setup to start with. If you are looking for one, clone it and use it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maaraa",
+  "license": "MIT"
+}
