@@ -31,12 +31,12 @@ git repository:
 keywords:
 author: maaraa
 license: (ISC) MIT
-About to write to /Users/gk/GK/GURU/Studies/ReactJS/react-basic-setup/package.json:
+About to write to ~/react-basic-setup/package.json:
 
 {
   "name": "react-basic-setup",
   "version": "1.0.0",
-  "description": "A basic react project setup to start with. If you are looking for one, clone it and use it.",
+  "description": "A basic react project setup to start with. If you are looking for one, fork it and start with it.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
