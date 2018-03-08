@@ -53,7 +53,7 @@ Is this ok? (yes) yes
 
 ## Production Dependencies
 #### `react` core library
-You need to have react package that you install using npm and you need it as a production dependency for this project to work after deployment as well during development.
+You need to have react package that you can install using npm. We need it as a production dependency for this project to work after deployment as well during development.
 ```bash
 $ npm install --save react
 npm WARN react-basic-setup@1.0.0 No repository field.
@@ -76,7 +76,7 @@ added 1 package in 0.897s
 
 ## Developement Dependencies
 #### `webpack`
-Webpack for bundling your code. We will bundle all the files into single file using this. Also, you will load the different loaders for code compilation and transpilation (eg. babel)
+Webpack for bundling your code. We will bundle all the files into single file using this. Also, you will load the different loaders for code compilation and transpilation (eg. babel-loader, json-loader, css-loader, etc.,)
 ```bash
 $ npm install --save-dev webpack
 npm WARN react-basic-setup@1.0.0 No repository field.
